@@ -4,6 +4,7 @@ Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
 
+
 Explain what software engineering is and discuss its importance in the technology industry.
 Software engineering is a branch of computer science used for developing, testing, and maintaining software.
 Reliability ensures software performs as expected without bias, especially for critical applications like healthcare and finance. 
@@ -40,7 +41,7 @@ agile methodology - Iterative and incremental, with multiple cycles (sprints).
 
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
-Software Developer - developing applications,programs and systems using programming languages and frameworks.
+Software Developer - developing applications, programs, and systems using programming languages and frameworks.
  - maintaining and updating software to keep it functional. 
 - collaborating with other team members to ensure best practices when developing software.
  - reporting to the project manager about the progress of the software development.
@@ -65,7 +66,7 @@ an IDE can make suggestions to complete a code statement when the developer begi
 IDEs increase programmer productivity by performing repeatable development tasks that are typically part of every code change. The following are some examples of regular coding tasks that an IDE carries out.
 An IDE compiles or converts the code into a simplified language that the operating system can understand. - Some programming languages implement just-in-time compiling, in which the IDE converts human-readable code into machine code from within the application.
 The IDE allows developers to automate unit tests locally before the software is integrated with other developers' code and more complex integration tests are run.
-Debugging IDE enables a step through the code, line by line, as it runs and inspects code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real-time, even as the developer is typing.
+A debugging IDE enables the developer to step through the code, line by line, as it runs and inspects code behavior. IDEs also integrate several debugging tools that highlight bugs caused by human error in real-time, even as the developer is typing.
 
 Version Control Systems (VCS) - are software tools that help software teams manage changes to source code over time. eg Git
 importance:
